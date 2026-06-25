@@ -17,3 +17,5 @@ A Python-based data analysis project focused on tracking, processing, and modeli
 Make sure you have Python installed on your system along with the necessary data science libraries:
 ```bash
 pip install pandas numpy matplotlib scikit-learn
+DEMO VIDEO LINK
+https://drive.google.com/file/d/1jwAkWuJDVDg5HSypiEsq4BICaLknDoTo/view?usp=drivesdk
