@@ -18,4 +18,7 @@ Make sure you have Python installed on your system along with the necessary data
 ```bash
 pip install pandas numpy matplotlib scikit-learn
 DEMO VIDEO LINK
-https://drive.google.com/file/d/1jwAkWuJDVDg5HSypiEsq4BICaLknDoTo/view?usp=drivesdk
+## Links
+
+* [Rising Water Document](https://drive.google.com/file/d/1jwAkWuJDVDg5HSypiEsq4BICaLknDoTo/view?usp=drivesdk)
+
